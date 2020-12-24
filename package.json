@@ -1,0 +1,24 @@
+{
+	"name": "org.aebian.vs-theme",
+	"displayName": "VS Theme (Aebian)",
+	"description": "Dark Theme for VS Code",
+	"version": "1.0.0",
+	"author": "Alexander Pelz (https://aebian.org)",
+	"publisher": "aebian",
+	"repository": {},
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Aebian",
+				"uiTheme": "vs-dark",
+				"path": "./themes/vs-theme.json"
+			}
+		]
+	}
+}
