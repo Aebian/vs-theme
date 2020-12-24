@@ -10,3 +10,4 @@ Pretty simple. <br>
 2.) Then <kbd>git clone git@github.com:Aebian/vs-theme.git org.aebian.vs-theme</kbd>
 
 ![VS-Theme](content/org.aebian.vs-theme.png)
+![VS-Theme](content/org.aebian.vs-theme-2.png)
