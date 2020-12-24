@@ -5,7 +5,7 @@ Theme is dark-mode only.
 
 ### Cloning
 
-Pretty simple. 
+Pretty simple. <br>
 1.) Go to \.vscode\extensions\ <br>
 2.) Then <kbd>git clone git@github.com:Aebian/vs-theme.git org.aebian.vs-theme</kbd>
 
